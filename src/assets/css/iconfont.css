@@ -1,0 +1,14 @@
+@import "//at.alicdn.com/t/font_2101314_ddk4f1ppv1n.css";
+
+.anticon[class*="anticon-hyx-icon"],.anticon[class*="anticon-hyx-icon"]:before {
+  font-family: "hyx-iconfont" !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: normal;
+  vertical-align: unset;
+}
+.anticon[class*="anticon-hyx-icon"]:before {
+  display: block;
+}
+
